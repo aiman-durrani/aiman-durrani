@@ -42,6 +42,6 @@ I'm a Laravel Developer and Software Engineer passionate about building scalable
 
 ## 📊 GitHub Stats
 
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimandurrani&show_icons=true&theme=tokyonight&hide_border=true)
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiman-durrani&show_icons=true&theme=tokyonight&hide_border=true)
 
 ⭐ Thanks for visiting my profile!
