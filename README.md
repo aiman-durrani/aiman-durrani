@@ -42,7 +42,7 @@ I'm a Laravel Developer and Software Engineer passionate about building scalable
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=aiman-durrani&show_icons=true&theme=default&hide_border=true)
 
 ---
 
