@@ -40,10 +40,8 @@ I'm a Laravel Developer and Software Engineer passionate about building scalable
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aiman-durrani&show_icons=true&theme=default&hide_border=true)
-
----
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimandurrani&show_icons=true&theme=tokyonight&hide_border=true)
 
 ⭐ Thanks for visiting my profile!
