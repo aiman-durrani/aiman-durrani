@@ -15,8 +15,7 @@ Laravel Developer | Software Engineer passionate about building modern, scalable
 ## About Me
 I'm a Laravel Developer and Software Engineer passionate about building scalable and user-friendly web applications. I enjoy solving real-world problems through clean, efficient code and continuously expanding my skills in modern web development.
 
-- 🔭 Currently working on **[Student Management System]**
-- 🌱 Currently learning **[Advanced Laravel, REST APIs, and Software Architecture]**
+- 🌱 Currently learning **[Advanced Laravel, REST APIs, AI integration and Software Architecture]**
 - 💬 Ask me about **[Laravel, PHP, MySQL, and Git]**
 - 📫 Reach me at **aimandurrani.se@gmail.com**
 
